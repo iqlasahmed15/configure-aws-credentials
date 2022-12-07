@@ -10,4 +10,4 @@ outputs:
     description: 'The AWS account ID for the provided credentials'
 runs:
   using: 'node12'
-  main: 'handler.js'
+  main: 'dist/index.js'
